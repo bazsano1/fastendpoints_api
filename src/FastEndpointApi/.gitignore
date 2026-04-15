@@ -1,0 +1,163 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local History for Visual Studio
+.localhistory/
+
+# Visual Studio History (VSHistory) files
+.vshistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup & restore
+*.bak
+*.backup
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TestResults
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Code coverage
+*.coverage
+*.coveragexml
+OpenCover/
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider auto-generated files
+.idea_modules/
+
+# Publishing
+PublishProfiles/
+*.azurePubxml
+
+# NuGet Symbol Packages
+*.snupkg
+
+# Package files
+packages/
+.packages/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Resharper
+*.DotSettings
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btproj
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCoverUI/
+
+# Azure Stream Analytics local run output
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working directory
+.mfractor/
+
+# Local History for Visual Studio Code
+.history/
+
+# Windows Installer files from build outputs
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.msu
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code extensions
+.vscode/extensions.json
+
+# Miscellaneous files
+*.log
+*.tmp
+*.temp
