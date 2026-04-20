@@ -7,10 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".github\workflows\build.yml" />
+    <Compile Remove=".github\**" />
+    <Content Remove=".github\**" />
+    <EmbeddedResource Remove=".github\**" />
+    <None Remove=".github\**" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.14.0" />
     <PackageReference Include="FastEndpoints" Version="8.1.0" />
   </ItemGroup>
 
