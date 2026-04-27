@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="NetLearnSamples.Tests/NetLearnSamples.Tests.csproj" />
+  <Project Path="NetLearnSamples/NetLearnSamples.csproj" Id="0745cd45-62cc-4faa-a754-6e5197bcf7fc" />
   <Project Path="src/FastEndpointApi/FastEndpointApi.csproj" />
 </Solution>
