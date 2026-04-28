@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace NetLearnSamples
+﻿namespace NetLearnSamples
 {
     public record class Book(string Title, string Author, int YearPublished, string Genre);
 
